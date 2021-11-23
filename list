@@ -1,18 +1,18 @@
 # ReGex for Douyin
-douyincdn.com
-ixigua.com
-pstatp.com
-douyinpic.com
-amemv.com
-volcfcdndvs.com
-snssdk.com.xi.zwtianshangm.com
-zjcdn.com.w.cdngslb.com
-snssdk.com.w.kunluncan.com
-v.bsgslb.com
-douyinstatic.com
-douyinvod.com
-bytedance.com
-zijieapi.com
-bytednsdoc.com
-gtm.byte008.com
-clientstream.launchdarkly.com
+0.0.0.0 douyincdn.com
+0.0.0.0 ixigua.com
+0.0.0.0 pstatp.com
+0.0.0.0 douyinpic.com
+0.0.0.0 amemv.com
+0.0.0.0 volcfcdndvs.com
+0.0.0.0 snssdk.com.xi.zwtianshangm.com
+0.0.0.0 zjcdn.com.w.cdngslb.com
+0.0.0.0 snssdk.com.w.kunluncan.com
+0.0.0.0 v.bsgslb.com
+0.0.0.0 douyinstatic.com
+0.0.0.0 douyinvod.com
+0.0.0.0 bytedance.com
+0.0.0.0 zijieapi.com
+0.0.0.0 bytednsdoc.com
+0.0.0.0 gtm.byte008.com
+0.0.0.0 clientstream.launchdarkly.com
